@@ -6,7 +6,7 @@
     android:orientation="vertical" >
 
     <ImageView
-        android:tint="#136ba2"
+        android:tint="@color/circleImageItem"
         android:tintMode="src_atop"
         android:id="@id/id_circle_menu_item_image"
         android:layout_width="wrap_content"
@@ -18,7 +18,7 @@
         android:layout_width="wrap_content"
         android:visibility="gone"
         android:layout_height="wrap_content"
-        android:textColor="#272727"
+        android:textColor="@color/circleTextItem"
         android:text="ITEM"
         android:textSize="14.0dip" />
 
